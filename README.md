@@ -2,6 +2,7 @@
 # 🍔 Burger Builder App
 ## Screenshots
 ![image alt](https://github.com/Dynamicsoumya/burger-builder-app/blob/194ff289980720fa0f17d26ded8fce624ee24467/images/Screenshot1.png)
+![image alt](https://github.com/Dynamicsoumya/burger-builder-app/blob/6f6c8e6abc7c84d1eb46df51ba3b31296f1587ef/images/Screenshot2.png)
 
 A full-stack Burger Builder application built using **React (Client)** and **Node.js + Express (Server)**.
 
