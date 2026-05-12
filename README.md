@@ -1,5 +1,7 @@
 # burger-builder-app
 # 🍔 Burger Builder App
+## Screenshots
+![image alt](https://github.com/Dynamicsoumya/burger-builder-app/blob/194ff289980720fa0f17d26ded8fce624ee24467/images/Screenshot1.png)
 
 A full-stack Burger Builder application built using **React (Client)** and **Node.js + Express (Server)**.
 
@@ -57,6 +59,5 @@ cd server
 npm install
 npm start
 
-## Screenshots
-![image alt](https://github.com/Dynamicsoumya/burger-builder-app/blob/194ff289980720fa0f17d26ded8fce624ee24467/images/Screenshot1.png)
+
 
