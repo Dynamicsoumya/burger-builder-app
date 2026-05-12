@@ -44,6 +44,7 @@ A full-stack Burger Builder application built using **React (Client)** and **Nod
 ```bash
 git clone https://github.com/USERNAME/burger-builder-app.git
 
+<<<<<<< HEAD
 cd client
 npm install
 npm start
@@ -64,3 +65,8 @@ npm start
 
 
 
+=======
+![image alt]("C:\Users\LENOVO\Pictures\Screenshots\Screenshot 2026-05-12 201337.png")
+![image alt]("C:\Users\LENOVO\Pictures\Screenshots\Screenshot 2026-05-12 201438.png")
+![image alt]("C:\Users\LENOVO\Pictures\Screenshots\Screenshot 2026-05-12 201448.png")
+>>>>>>> ee60a403d4c8463647f49b06a096a17351200037
