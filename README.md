@@ -58,7 +58,5 @@ npm install
 npm start
 
 ## Screenshots
+![image alt](https://github.com/Dynamicsoumya/burger-builder-app/blob/194ff289980720fa0f17d26ded8fce624ee24467/images/Screenshot1.png)
 
-![Screenshot 1](/burger-builder/images/Screenshot1.png)
-![Screenshot 2](/burger-builder/images/Screenshot2.png)
-![Screenshot 3](/burger-builder/images/Screenshot3.png)
