@@ -32,7 +32,9 @@ A full-stack Burger Builder application built using **React (Client)** and **Nod
 
 ## 📁 Project Structure
 
-
+1.burger-app/
+├── client/ # React frontend
+├── server/ # Node backend
 
 ---
 
@@ -41,3 +43,24 @@ A full-stack Burger Builder application built using **React (Client)** and **Nod
 ### 1. Clone repo
 ```bash
 git clone https://github.com/USERNAME/burger-builder-app.git
+
+cd client
+npm install
+npm start
+
+2.Install frontend
+cd client
+npm install
+npm start
+
+3. Install backend
+cd server
+npm install
+npm start
+
+![image alt](images/Screenshot1.png)
+![image alt](images/Screenshot2.png)
+![image alt](images/Screenshot3.png)
+
+
+
