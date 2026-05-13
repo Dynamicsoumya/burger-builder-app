@@ -55,12 +55,12 @@ npm start
 2.Install frontend
 cd client
 npm install
-npm start
+npm run dev
 
 3. Install backend
 cd server
 npm install
-npm start
+npm run dev
 
 
 
